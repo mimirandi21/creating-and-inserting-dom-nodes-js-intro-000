@@ -12,3 +12,4 @@ element.align = 'center';
 
 document.body.appendChild(element);
 element.style.backgroundColor = 'red';
+s
